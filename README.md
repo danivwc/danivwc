@@ -81,7 +81,7 @@ I orchestrate every agent. I review every output. The system does not run withou
 
 **Explore the public repositories:**
 - [claude-code-learning-logs](https://github.com/danivwc/claude-code-learning-logs) — Daily logs of the build, day by day
-- [ai-adoption-history](https://github.com/danivwc/ai-adoption-history) — Documented artificial intelligence adoption history since 2021
+- [ai-adoption-history](https://github.com/danivwc/ai-adoption-history) — Documented artificial intelligence adoption history since 2018
 
 ---
 
