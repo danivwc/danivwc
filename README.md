@@ -1,6 +1,7 @@
+
 # Danielle Vantini
 
-**Brazilian entrepreneur and artificial intelligence orchestration specialist.**
+**AI Orchestrator & Keynote Speaker.**
 Co-Founder and Co-CEO of PowerFuel Damas LLC. Based in San Diego. Originally from São Paulo.
 
 One of the earliest non-technical business founders to go all-in on artificial intelligence — with the receipts to prove it.
@@ -64,7 +65,8 @@ Full engineering: 80 custom icebreaker questions, 9+ custom instruction blocks d
 | Files committed to GitHub | 486 |
 | Project dashboard nodes tracked | 151 |
 | Voice profile sub-modes documented | 12 |
-| Days to fully operational system | 13 |
+| Days to fully automated system | 13 |
+| Total days to complete build | 18 |
 
 **What the system does:**
 - 22 specialized agents — each with its own rulebook, skill set, and scope
@@ -81,7 +83,7 @@ I orchestrate every agent. I review every output. The system does not run withou
 
 **Explore the public repositories:**
 - [claude-code-learning-logs](https://github.com/danivwc/claude-code-learning-logs) — Daily logs of the build, day by day
-- [ai-adoption-history](https://github.com/danivwc/ai-adoption-history) — Documented artificial intelligence adoption history since 2018
+- [ai-adoption-history](https://github.com/danivwc/ai-adoption-history) — Documented artificial intelligence adoption history since 2021
 
 ---
 
@@ -92,7 +94,7 @@ I orchestrate every agent. I review every output. The system does not run withou
 - **Rising Star Award — Social Wellness 2023** — San Diego Magazine — [Coverage](https://sandiegomagazine.com/magazine-event/san-diego-magazines-celebrating-women-summit-2023/)
 - **ABC 10 News San Diego** — Featured twice — [Coverage](https://www.10news.com/news/local-news/brazilian-powerfuel-damas-in-san-diego-raising-money-after-devastating-floods)
 - **International media coverage in three languages** — English, Spanish, Portuguese
-  - Yahoo Finance · Yahoo Money · MarketWatch · Benzinga · Seeking Alpha
+  - Benzinga · Yahoo News · WFMZ 69 News · TMCnet · Street Insider
   - Olhar Digital (Brazil) · Canal Tech (Brazil)
   - Hispanos News (Spanish-language) — [Coverage](https://hispanosnews.com/la-gente-powerfuel-damas-co-founders-danielle-vantini-and-mayra-brito/)
 - **Meta Partner** and **Google Partner** through PowerFuel Damas
@@ -109,9 +111,9 @@ I orchestrate every agent. I review every output. The system does not run withou
 
 ## What I Am Building Now
 
-**The AI Matrix Method** — a coaching program that teaches non-technical business founders to build and orchestrate artificial intelligence systems that run their real operations.
+**My AI coaching program** — teaches non-technical business founders to build and orchestrate artificial intelligence systems that run their real operations.
 
-Not theory. Not prompting tips. The actual infrastructure — agents, pipelines, automations, quality gates — the same system I built in 13 days.
+Not theory. Not prompting tips. The actual infrastructure — agents, pipelines, automations, quality gates — the same system I built.
 
 Built for non-technical business founders who are ready to lead their operations with artificial intelligence — without hiring a developer or waiting for someone to make it simple for them.
 
